@@ -11,9 +11,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
+	waBinary "github.com/caioreix/whatsmeow/binary"
+	"github.com/caioreix/whatsmeow/types"
+	"github.com/caioreix/whatsmeow/types/events"
 )
 
 func (cli *Client) handleReceipt(node *waBinary.Node) {

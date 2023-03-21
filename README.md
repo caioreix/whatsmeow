@@ -1,5 +1,5 @@
 # whatsmeow
-[![Go Reference](https://pkg.go.dev/badge/go.mau.fi/whatsmeow.svg)](https://pkg.go.dev/go.mau.fi/whatsmeow)
+[![Go Reference](https://pkg.go.dev/badge/github.com/caioreix/whatsmeow.svg)](https://pgithub.com/caioreix/whatsmeowm/caioreix/whatsmeow)
 
 whatsmeow is a Go library for the WhatsApp web multidevice API.
 
@@ -13,8 +13,8 @@ discussions.
 [WhatsApp protocol Q&A]: https://github.com/tulir/whatsmeow/discussions/categories/whatsapp-protocol-q-a
 
 ## Usage
-The [godoc](https://pkg.go.dev/go.mau.fi/whatsmeow) includes docs for all methods and event types.
-There's also a [simple example](https://godocs.io/go.mau.fi/whatsmeow#example-package) at the top.
+The [godoc](https://pkg.go.dev/github.com/caioreix/whatsmeow) includes docs for all methods and event types.
+There's also a [simple example](https://godocs.io/github.com/caioreix/whatsmeow#example-package) at the top.
 
 Also see [mdtest](./mdtest) for a CLI tool you can easily try out whatsmeow with.
 

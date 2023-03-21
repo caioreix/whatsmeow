@@ -1,11 +1,11 @@
-module go.mau.fi/whatsmeow/mdtest
+module github.com/caioreix/whatsmeow/mdtest
 
 go 1.19
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/mdp/qrterminal/v3 v3.0.0
-	go.mau.fi/whatsmeow v0.0.0-20230101110842-4d2824cc0205
+	github.com/caioreix/whatsmeow v0.0.0-20230101110842-4d2824cc0205
 	google.golang.org/protobuf v1.28.1
 )
 
@@ -17,4 +17,4 @@ require (
 	rsc.io/qr v0.2.0 // indirect
 )
 
-replace go.mau.fi/whatsmeow => ../
+replace github.com/caioreix/whatsmeow => ../

@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"time"
 
-	waProto "go.mau.fi/whatsmeow/binary/proto"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/util/keys"
-	waLog "go.mau.fi/whatsmeow/util/log"
+	waProto "github.com/caioreix/whatsmeow/binary/proto"
+	"github.com/caioreix/whatsmeow/types"
+	"github.com/caioreix/whatsmeow/util/keys"
+	waLog "github.com/caioreix/whatsmeow/util/log"
 )
 
 type IdentityStore interface {
