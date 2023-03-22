@@ -10,3 +10,5 @@ require (
 )
 
 require filippo.io/edwards25519 v1.0.0 // indirect
+
+replace go.mau.fi/whatsmeow => github.com/caioreix/whatsmeow v1.0.0
